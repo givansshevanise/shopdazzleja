@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[67636,["/shopdazzleja/_next/static/chunks/9bbb89b1363d136e.js","/shopdazzleja/_next/static/chunks/875f6baa7fdb6b15.js"],"default"]
+3:I[26264,["/shopdazzleja/_next/static/chunks/9bbb89b1363d136e.js","/shopdazzleja/_next/static/chunks/875f6baa7fdb6b15.js"],"default"]
+0:{"buildId":"lcHhMv_g1JWLYZfylJITB","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}

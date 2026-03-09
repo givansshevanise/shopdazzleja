@@ -1,0 +1,6 @@
+:HL["/shopdazzleja/_next/static/chunks/26b33211c7db491f.css","style"]
+:HL["/shopdazzleja/_next/static/chunks/9644a80232af9081.css","style"]
+:HL["/shopdazzleja/_next/static/media/4a7551bcc3548e67-s.p.717db902.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/shopdazzleja/_next/static/media/a624dffa201843ff-s.p.91936907.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/shopdazzleja/_next/static/media/c432471d2cba538b-s.p.efda4bc0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"lcHhMv_g1JWLYZfylJITB","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
