@@ -4,6 +4,9 @@
 @custom-variant dark (&:is(.dark *));
 
 :root {
+  --font-quicksand: 'Trebuchet MS';
+  --font-pacifico: 'Brush Script MT';
+  --font-lilita: 'Arial Black';
   --background: #FDF8F3;
   --foreground: #2D2A26;
   --card: #FFFFFF;

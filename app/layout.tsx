@@ -1,24 +1,6 @@
 import type { Metadata, Viewport } from 'next'
-import { Quicksand, Pacifico, Lilita_One } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
-
-const quicksand = Quicksand({ 
-  subsets: ["latin"],
-  variable: '--font-quicksand',
-});
-
-const pacifico = Pacifico({ 
-  weight: '400',
-  subsets: ["latin"],
-  variable: '--font-pacifico',
-});
-
-const lilitaOne = Lilita_One({
-  weight: '400',
-  subsets: ["latin"],
-  variable: '--font-lilita',
-});
 
 export const metadata: Metadata = {
   title: 'Dazzle | Handmade Mirrors & Décor',
@@ -45,7 +27,7 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="en" className={`${quicksand.variable} ${pacifico.variable} ${lilitaOne.variable}`}>
+    <html lang="en">
       <body className="font-sans antialiased">
         {children}
         <Analytics />
